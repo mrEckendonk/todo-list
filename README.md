@@ -1,3 +1,3 @@
 # todo-list
 
-Live version on https://eckybrazzz.github.io/todo-list/
+Live version on https://mreckendonk.github.io/todo-list/
